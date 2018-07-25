@@ -1,0 +1,22 @@
+h4{
+    text-transform: uppercase;
+    color: #3498db;
+    font-family: source sans pro;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+.border{
+    border-left: solid 3px #bdc3c7;
+}
+p{
+    font-family: source sans pro;
+    font-weight: 600;
+}
+body{
+    border: 10px solid gray;
+    margin: 5% 15% 5% 15%;
+    padding: 5px 30px;
+}
+h2{
+    color:#2c3e50;
+}
